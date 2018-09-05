@@ -1,4 +1,4 @@
-# dyingpolarbears
+# weepingwhales
 Project Proposal
 
 1.0 Introduction
