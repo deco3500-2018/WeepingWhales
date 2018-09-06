@@ -1,5 +1,4 @@
-# Weeping Whales
-(We used to be called DyingPolarBears)
+___Side note: We used to be called DyingPolarBears)___
 ## Project Proposal link:
 https://github.com/deco3500-2018/WeepingWhales/wiki
 
