@@ -1,5 +1,6 @@
 # Weeping Whales
-Project Proposal link:
+(We used to be called DyingPolarBears)
+## Project Proposal link:
 https://github.com/deco3500-2018/WeepingWhales/wiki
 
 ## Project Aims
