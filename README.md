@@ -18,6 +18,7 @@ Week 11
 * Created an initial prototype which we've started to show and test on potential users
 * Came up with the game score calculations relating facts from research
 * Started developing the game in Unity
+
 Next on our list...
 * Continue developing our game in Unity 
 * Get more user feedback for the next iteration of our game - before the exhibition
