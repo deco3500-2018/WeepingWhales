@@ -12,3 +12,13 @@ Through developing a prototype and doing user testing, interviews and surveys, o
 * **Chia Shin Shen (Nicole)** [@chiashen] - Master of Interaction Design
 * **Chi Iao Chan (Christy)** [@inchristy] - Master of Interaction Design
 * **Jiahuan Li (Jasmin)** [@jassmm] - Master of Interaction Design
+
+## Progress Updates
+Week 11
+* Created an initial prototype which we've started to show and test on potential users
+* Came up with the game score calculations relating facts from research
+* Started developing the game in Unity
+Next on our list...
+* Continue developing our game in Unity 
+* Get more user feedback for the next iteration of our game - before the exhibition
+
