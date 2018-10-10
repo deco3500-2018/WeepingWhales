@@ -2,6 +2,9 @@ ___Side note: We used to be called DyingPolarBears)___
 ## Project Proposal link:
 https://github.com/deco3500-2018/WeepingWhales/wiki
 
+## Project Progress Updates
+https://github.com/deco3500-2018/WeepingWhales/wiki/Progress-Updates
+
 ## Project Aims
 We want to gain a better understanding of whether visualising people’s contribution to environmental protection helps motivate them to reduce plastic bag usage.
 
