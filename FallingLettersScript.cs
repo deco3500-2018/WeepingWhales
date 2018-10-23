@@ -16,17 +16,15 @@ public class FallingLettersScript : MonoBehaviour
         mTopMiddle = Camera.main.ScreenToWorldPoint(new Vector3(Camera.main.pixelWidth / 2 - 4, Camera.main.pixelHeight,0));
 
     }
-    /* The code snippet (How to spawn random prefabs in Unity game. Unity quick tip.) below has been adapted from
-	 https://www.youtube.com/watch?v=ao_BZMORqQw. 
+    //The code snippet (How to spawn random prefabs in Unity game. Unity quick tip.) below has been adapted from
+	 //https://www.youtube.com/watch?v=ao_BZMORqQw. 
 
-	Things that are changed are value of the spawnRate, value of nextSpawn, range of Random.Range, and more
-	switch cases are added */
 
 
     public GameObject PrefabA;
 	private float spawnRate = 1f;
 
-    private float nextSpawn = 2f;
+    private float nextSpawn = 0f;
 
     private int whatToSpawn;
 

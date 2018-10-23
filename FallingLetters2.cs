@@ -7,24 +7,11 @@ public class FallingLetters2 : MonoBehaviour
 {
     private Vector2 mTopMiddle = Vector2.zero;
     private Vector2 mTopRight = Vector2.zero;
-    /*An almost in likeness duplicate of FallingLettersScript.cs, only changing the value
-	  of spawnRate and nextSpawn. This is meant to create random falling prefabs
-	  in the X-axis*/
 
-    /* The code snippet (How to spawn random prefabs in Unity game. Unity quick tip.) below has been adapted from
-	https://www.youtube.com/watch?v=ao_BZMORqQw. 
 
-	Things that are changed are value of the spawnRate, value of nextSpawn, range of Random.Range, and more
-	switch cases are added */
+    //The code snippet (How to spawn random prefabs in Unity game. Unity quick tip.) below has been adapted from
+	//https://www.youtube.com/watch?v=ao_BZMORqQw. 
 
-    public GameObject PrefabA;
-
-	private float spawnRate = 2f;
-
-	private float nextSpawn = 0f;
-
-	private int whatToSpawn;
-    private readonly object mTopRIght;
 
     private void Awake()
     {  //Bounding values 
@@ -32,6 +19,17 @@ public class FallingLetters2 : MonoBehaviour
         mTopRight = Camera.main.ScreenToWorldPoint(new Vector3(Camera.main.pixelWidth - 4, Camera.main.pixelHeight, 0));
 
     }
+
+    public GameObject PrefabA;
+
+	private float spawnRate = 1f;
+
+	private float nextSpawn = 0f;
+
+	private int whatToSpawn;
+    private readonly object mTopRIght;
+
+
     //random falling letters using switch
     private void Update ()
 	{
