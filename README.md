@@ -1,18 +1,8 @@
 ___Side note: We used to be called DyingPolarBears)___
 
-### Project Progress Updates
-https://github.com/deco3500-2018/WeepingWhales/wiki/Progress-Updates
-
-### Conference Poster
-https://github.com/deco3500-2018/WeepingWhales/wiki/Conference-Poster
-
 ### Project Aims
-We want to gain a better understanding of whether visualising people’s contribution to environmental protection helps motivate them to reduce plastic bag usage.
-
-Through developing a prototype and doing user testing, interviews and surveys, our team aims to explore questions such as what kind of visualisation works better for people? And what kind of impacts people care more about. 
-
-### Project Proposal Link
-https://github.com/deco3500-2018/WeepingWhales/wiki
+We want to gain a better understanding of whether visualising people’s contribution to environmental protection helps motivate them to reduce plastic bag usage.Through developing a prototype and doing user testing, interviews and surveys, our team aims to explore questions such as what kind of visualisation works better for people, and what kind of impacts people care more about. 
+As we conducted further research in the problem space, we decided to apply the concept of “collective awareness” to our design as well by not only visualizing personal contribution, but also emphasizing the importance of collective effort and action.
 
 ### Members
 * **Cyrill Belardo** [@cbien21]- Bachelor of Business Management and Information Technology
@@ -20,13 +10,14 @@ https://github.com/deco3500-2018/WeepingWhales/wiki
 * **Chi Iao Chan (Christy)** [@inchristy] - Master of Interaction Design
 * **Jiahuan Li (Jasmin)** [@jassmm] - Master of Interaction Design
 
-### Progress Updates
-Week 11
-* Created an initial prototype which we've started to show and test on potential users
-* Came up with the game score calculations relating facts from research
-* Started developing the game in Unity
+### Project Proposal Link
+https://github.com/deco3500-2018/WeepingWhales/wiki
 
-### Next on our list...
-* Continue developing our game in Unity 
-* Get more user feedback for the next iteration of our game - before the exhibition
+### Project Progress Updates
+https://github.com/deco3500-2018/WeepingWhales/wiki/Progress-Updates
+
+### Conference Poster
+https://github.com/deco3500-2018/WeepingWhales/wiki/Conference-Poster
+
+
 
