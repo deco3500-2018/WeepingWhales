@@ -1,4 +1,4 @@
-___Side note: We used to be called DyingPolarBears)___
+___Side note: We used to be called Dying Polar Bears :)___
 
 ### Project Aims
 We want to gain a better understanding of whether visualising people’s contribution to environmental protection helps motivate them to reduce plastic bag usage.Through developing a prototype and doing user testing, interviews and surveys, our team aims to explore questions such as what kind of visualisation works better for people, and what kind of impacts people care more about. 
