@@ -38,6 +38,7 @@ public class TimeCount : MonoBehaviour
             uiText.text = "0.00";
             timer = 0.0f;
             SceneManager.LoadScene(2);
+          
         }            
     }
 

@@ -20,7 +20,7 @@ public class ScoreScriptOne : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		score.text = "Plastic bag: " + scoreCount;
+		score.text = "Score: " + scoreCount;
 	}
 	//End of code snippet (1.How to add a score counter into your Unity 2D game? Easy.)
 }

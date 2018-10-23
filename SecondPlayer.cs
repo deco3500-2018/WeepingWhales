@@ -59,7 +59,7 @@ public class SecondPlayer : MonoBehaviour
         */
 
         Vector3 range = transform.position;
-        range.x = Mathf.Clamp(range.x, -6, -1);
+        range.x = Mathf.Clamp(range.x, -9, -1);
         transform.position = range;
     }
 
