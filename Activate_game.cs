@@ -10,7 +10,9 @@ public class Activate_game: MonoBehaviour
 
     public void PlayGame ()
     {
-        
+        //SceneManager.GetActiveScene().buildIndex + 
         SceneManager.LoadScene(1);
+        ScoreScriptTwo.scoreCount = 0;
+        ScoreScriptOne.scoreCount = 0;
     }
 }
