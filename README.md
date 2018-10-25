@@ -16,4 +16,5 @@ As we conducted further research in the problem space, we decided to apply the c
 * **Chi Iao Chan (Christy)** [@inchristy] - Master of Interaction Design
 * **Jiahuan Li (Jasmin)** [@jassmm] - Master of Interaction Design
 
-
+# Conference Poster
+![](https://github.com/deco3500-2018/WeepingWhales/blob/master/socialmobile-conferenceposter.jpg)
