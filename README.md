@@ -22,7 +22,7 @@ As we conducted further research in the problem space, we decided to apply the c
 #### [6.1 Prototype III (Final: Physical Interaction)](https://github.com/deco3500-2018/WeepingWhales/wiki/6.1-Prototype-III-(Final):-Physical-interaction)
 #### [6.2 Prototype III (Final): User Testing](https://github.com/deco3500-2018/WeepingWhales/wiki/6.2-Prototype-III-(Final):-User-Testing)
 #### [7.0 Final Prototype Modifications](https://github.com/deco3500-2018/WeepingWhales/wiki/7.0-Final-Prototype-Modifications)
-#### [8.0 Conference Poster $ Showcase Night](https://github.com/deco3500-2018/WeepingWhales/wiki/8.0-Conference-Poster-&-Showcase-Night)
+#### [8.0 Conference Poster & Showcase Night](https://github.com/deco3500-2018/WeepingWhales/wiki/8.0-Conference-Poster-&-Showcase-Night)
 #### [9.0 Showcase Night Reflection & Feedback](https://github.com/deco3500-2018/WeepingWhales/wiki/9.0-Showcase-Night-Reflection-&-Feedback)
 
 # Conference Poster
